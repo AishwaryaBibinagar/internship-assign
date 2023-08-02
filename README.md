@@ -1,1 +1,1 @@
-# internship-assign
+# MajorProject
